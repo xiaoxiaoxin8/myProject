@@ -1,1 +1,2 @@
 addTest1()
+addTest2()
