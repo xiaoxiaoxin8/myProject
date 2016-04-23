@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 addTest1()
 addTest2()
+=======
+addTest1()
+>>>>>>> 98c62620aae7cc3bca94a32bfeb4cd5c14e892ea
